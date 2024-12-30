@@ -1,4 +1,4 @@
-## 🏆 Web3 & Senior Full-Stack Engineer ✍
+## 🏆 Web3 & Senior Full-Stack Developer ✍
 goal0105 is a dedicated Blockchain developer & IT Engineer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, montedev incorporates the latest industry trends and best practices. Through continuous learning and exploration, montedev transforms ideas into reality, showcasing the power of technological advancements in the digital realm
 
 ## My key skills
