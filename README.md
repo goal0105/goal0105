@@ -1,13 +1,30 @@
-## 🏆 Web3 & Senior Full-Stack Developer ✍
-goal0105 is a dedicated Blockchain developer & IT Engineer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, montedev incorporates the latest industry trends and best practices. Through continuous learning and exploration, montedev transforms ideas into reality, showcasing the power of technological advancements in the digital realm
+# 🏆 Senior Full-Stack Developer ✍
+Versatile and results-driven software development professional expertised designing, developing, and
+delivering world-class software products. Proven ability to solve both practical and large-scale problems through innovative
+software solutions.
+Passionate about leveraging technology to drive impact—began programming in C and have remained deeply engaged in
+building high-performance systems and scalable applications. Committed to continuous learning, staying current with
+cutting-edge technologies, and consistently delivering value to teams and users.
 
 ## My key skills
-*Web design and Fronend Develpment* with React.JS, Next.JS, Vue.JS, Angular.js, Typescript, TailwindCSS, Flutter, React Native.
-*Backend Development* with Node.JS, Golang, Laravel,.NET, Ruby on rail, Flask, Django, AWS, GCP, GraphQL, Postgresql, Python.
-*Blockchain Development* Smart Contract with Solidity & Rust, Go, Dex, Defi, cosmos-SDK, Defin, cross-chain, Crypto Trading Bot.
-*Desktop App Development* with ElectronJS, Tauri, PyQT, QT etc.
-*AI Chatbot and AI Development* with RAG, NLP, ML, OpenAI, ChatGPT, Image generation, Voice cloning etc.
-*Bot Development* in Telegram Tap To Earn Game(like **Hamster Kombat**), Discord Bot, Automation tools.
+
+### Fronend Develpment  
+with React.JS, Next.JS, Vue.JS, Angular.js, Typescript, TailwindCSS, Flutter, React Native.
+
+### Backend Development 
+Node.JS, Golang, Laravel,.NET, Ruby on rail, Flask, Django, Python.
+
+### Blockchain Development  
+Smart Contract with Solidity & Rust, Go, Dex, Defi, cosmos-SDK, Defin, cross-chain, Crypto Trading Bot.
+
+### Desktop App Development 
+ElectronJS, Tauri, PyQT, QT
+
+### AI Chatbot and AI Development 
+RAG, NLP, ML, OpenAI, ChatGPT, Image generation, Voice cloning etc.
+
+### Bot Development 
+Telegram Tap To Earn Game(like **Hamster Kombat**), Discord Bot, Whatsapp Bot, Automation tools(n8n, chatbotbuilder).
 
 <!--
 **goal0105/goal0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
