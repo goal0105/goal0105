@@ -8,22 +8,22 @@ cutting-edge technologies, and consistently delivering value to teams and users.
 
 ## My key skills
 
-### Fronend Develpment  
+#### Fronend Develpment  
 with React.JS, Next.JS, Vue.JS, Angular.js, Typescript, TailwindCSS, Flutter, React Native.
 
-### Backend Development 
+#### Backend Development 
 Node.JS, Golang, Laravel,.NET, Ruby on rail, Flask, Django, Python.
 
-### Blockchain Development  
+#### Blockchain Development  
 Smart Contract with Solidity & Rust, Go, Dex, Defi, cosmos-SDK, Defin, cross-chain, Crypto Trading Bot.
 
-### Desktop App Development 
+#### Desktop App Development 
 ElectronJS, Tauri, PyQT, QT
 
-### AI Chatbot and AI Development 
+#### AI Chatbot and AI Development 
 RAG, NLP, ML, OpenAI, ChatGPT, Image generation, Voice cloning etc.
 
-### Bot Development 
+#### Bot Development 
 Telegram Tap To Earn Game(like **Hamster Kombat**), Discord Bot, Whatsapp Bot, Automation tools(n8n, chatbotbuilder).
 
 <!--
