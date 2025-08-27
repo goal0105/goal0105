@@ -45,8 +45,8 @@ Smart Contract with Solidity & Rust, Go, Dex, Defi, cosmos-SDK, Defin, cross-cha
 ElectronJS, Tauri, PyQT, QT
 -->
 
-#### AI Chatbot and AI Development 
-RAG, NLP, ML, OpenAI, ChatGPT, Image generation, Voice cloning etc.
+#### AI && Automation
+RAG, NLP, ML, OpenAI, Face Recognition, Speech Recognition, Voice cloning, n8n, Chatbotbuilder
 
 #### Bot Development 
 Telegram Tap To Earn Game(like **Hamster Kombat**), Discord Bot, Whatsapp Bot, Automation tools(n8n, chatbotbuilder).
